@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f1acec8-2bf6-4832-8a96-fb081ea235ac" name="Default" comment="" />
+    <list default="true" id="1f1acec8-2bf6-4832-8a96-fb081ea235ac" name="Default" comment="&quot;Add a Code&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/netease/wqh/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/netease/wqh/account/Account.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1">
@@ -22,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/netease/wqh/account/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="647">
+              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
               <folding>
                 <element signature="e#188#189#0" expanded="true" />
                 <element signature="e#220#221#0" expanded="true" />
@@ -54,12 +58,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/netease/wqh/account/Account.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/netease/wqh/account/User.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/netease/wqh/account/Account.java" />
       </list>
     </option>
   </component>
@@ -108,6 +115,7 @@
     <option name="width" value="1890" />
     <option name="height" value="930" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -124,27 +132,6 @@
               <item name="wqhtest1" type="b2602c69:ProjectViewProjectNode" />
               <item name="wqhtest1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wqhtest1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wqhtest1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wqhtest1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wqhtest1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wqhtest1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wqhtest1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wqhtest1" type="b2602c69:ProjectViewProjectNode" />
@@ -235,12 +222,20 @@
       <option name="presentableId" value="Default" />
       <updated>1529202842699</updated>
       <workItem from="1529202848175" duration="4127000" />
-      <workItem from="1529211365675" duration="5756000" />
+      <workItem from="1529211365675" duration="7166000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Add a Code&quot;">
+      <created>1529219350399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529219350399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9883000" />
+    <option name="totallyTimeSpent" value="11293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -255,9 +250,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.27712724" side_tool="true" weight="0.19587629" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.20140515" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.43889844" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.78522336" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.8087432" visible="true" weight="1.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.8087432" visible="true" weight="0.29432014" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17330211" />
@@ -280,8 +275,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add a Code&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add a Code&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -308,10 +317,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/netease/wqh/account/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        <state relative-caret-position="647">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
           <folding>
             <element signature="e#188#189#0" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
@@ -326,13 +342,6 @@
             <element signature="e#587#588#0" expanded="true" />
             <element signature="e#625#626#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
