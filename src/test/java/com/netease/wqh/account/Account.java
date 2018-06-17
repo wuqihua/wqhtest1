@@ -39,6 +39,8 @@ public class Account {
 
     private static Integer DevToOrigion = 4;
 
+    private static Integer DevToOriginDev = 6;
+
     @Override
     public String toString() {
         return "Account{" +
