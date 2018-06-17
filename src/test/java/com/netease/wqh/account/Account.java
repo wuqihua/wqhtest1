@@ -37,6 +37,8 @@ public class Account {
 
     private static Integer THREE_CODE = 3;
 
+    private static Integer DevToOrigion = 4;
+
     @Override
     public String toString() {
         return "Account{" +
