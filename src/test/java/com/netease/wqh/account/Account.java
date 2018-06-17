@@ -31,6 +31,7 @@ public class Account {
     public void setEndDate(Long endDate) {
         this.endDate = endDate;
     }
+    private static Integer CODE = 5;
 
     @Override
     public String toString() {
