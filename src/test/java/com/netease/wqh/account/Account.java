@@ -1,5 +1,7 @@
 package com.netease.wqh.account;
 
+import java.net.Inet4Address;
+
 public class Account {
 
     private int accountId;
@@ -36,6 +38,8 @@ public class Account {
     private static Integer TWO_CODE = 2;
 
     private static Integer THREE_CODE = 3;
+
+    private static Integer Master_To_Origin = 5;
 
     @Override
     public String toString() {
